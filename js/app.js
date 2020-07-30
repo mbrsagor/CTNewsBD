@@ -13,4 +13,5 @@ function addTodo() {
 document.querySelector(".add-todo").addEventListener('click', function (e) {
     addTodo();
     e.preventDefault();
+    document.getElementById("todo_form").reset();
 });
