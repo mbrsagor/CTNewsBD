@@ -1,12 +1,15 @@
-document.addEventListener('click', function (event) {
+function addTodo() {
+    var nameValue = document.querySelector(".input-name").value;
+    var jobValue = document.querySelector(".input-job").value;
+    var resultsBlock = document.querySelector(".results");
+    var resultName = document.querySelector(".name-result");
+    var resultJob = document.querySelector(".job-result");
 
-    // If the clicked element doesn't have the right selector, bail
-    if (!event.target.matches('.btn_submit')) return;
+    resultName.innerHTML += nameValue;
+    resultJob.innerHTML += jobValue;
+    resultsBlock.classList.remove("hidden");
+}
 
-    // Don't follow the link
-    event.preventDefault();
-
-    // Log the clicked element in the console
-    console.log("I'm counting..");
-
-}, false);
+document.querySelector(".add-item").addEventListener('click', function () {
+    addTodo();
+});

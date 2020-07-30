@@ -15,11 +15,22 @@
 
 
     <div class="container">
-        <div class="row">
+        <div class="row mt-3">
             <div class="col-lg-6">
-                <p>
-                    <button class="btn_submit">Button</button>
-                </p>
+                <input type="text" placeholder="Enter todo name" id="name"
+                    class="text-input input-name form-control mb-2">
+                <input type="text" placeholder="Enter toto title?" id="job"
+                    class="text-input input-job form-control mb-2">
+                <button class="add-item btn btn-success btn-sm">
+                    <i class="fa fa-plus"></i>
+                </button>
+            </div>
+            <div class="col-lg-6">
+                <section class="results">
+                    <!-- RESULTS BASED ON INPUTS -->
+                    <p class="name-result">Your todo anme </p>
+                    <p class="job-result">Your todo title </p>
+                </section>
             </div>
         </div>
     </div>
