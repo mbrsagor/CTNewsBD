@@ -7,12 +7,42 @@
     <title>Tood App in Vanilla Javascript</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
 
-    
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <h2>To do list</h2>
+                <form>
+                    <input type="text" class="form-control mb-2" placeholder="Enter write something...">
+                    <button type="submit" class="btn btn-success">
+                        <i class="fa fa-plus"></i>
+                    </button>
+                </form>
+            </div>
+            <div class="col-lg-6">
+                <ul class="list-group">
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        Cras justo odio
+                        <span class="badge badge-primary badge-pill">14</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        Dapibus ac facilisis in
+                        <span class="badge badge-primary badge-pill">2</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        Morbi leo risus
+                        <span class="badge badge-primary badge-pill">1</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
 
     <script src="js/app.js"></script>
 </body>
