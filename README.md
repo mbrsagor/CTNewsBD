@@ -6,4 +6,4 @@
 
 ##### In this project, I'm developing a simple static todo app for my office learning development purpose.
 
-### N:B: It's faster then `Jquery`. This is my personal opinion.
+#### N:B: It's faster then `Jquery`. This is my personal opinion.
