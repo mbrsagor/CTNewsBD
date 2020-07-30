@@ -3,6 +3,6 @@
     margin: 0;
 }
 
-input:focus{
+input, textarea:focus{
     box-shadow: none !important;
 }

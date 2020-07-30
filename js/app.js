@@ -10,6 +10,7 @@ function addTodo() {
     resultsBlock.classList.remove("hidden");
 }
 
-document.querySelector(".add-todo").addEventListener('click', function () {
+document.querySelector(".add-todo").addEventListener('click', function (e) {
     addTodo();
+    e.preventDefault();
 });
