@@ -4,5 +4,5 @@
 }
 
 input:focus{
-    box-shadow: #ced4da !important;
+    box-shadow: none !important;
 }
