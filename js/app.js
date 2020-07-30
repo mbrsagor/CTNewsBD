@@ -1,21 +1,12 @@
-// selector
-const todoInput = document.querySelector('.todo_input');
-const todoButton = document.querySelector('.todo_button');
-const todoList = document.querySelector('.todo_list');
+document.addEventListener('click', function (event) {
 
-// Event Listeners
-todoButton.addEventListener('click', addTodo);
+    // If the clicked element doesn't have the right selector, bail
+    if (!event.target.matches('.btn_submit')) return;
 
-// Functions
-function addTodo(event) {
-    // console.log('Hello Sagor');
+    // Don't follow the link
     event.preventDefault();
-    const todo_div = document.createElement('li');
-    todo_div.classList.add('todo_div');
 
-    const newToDo = document.createElement('li');
-    newToDo.innerText = 'Hey';
-    addTodo.classList.add('todo-item');
-    todo_div.appendChild(newToDo);
-}
+    // Log the clicked element in the console
+    console.log("I'm counting..");
 
+}, false);
