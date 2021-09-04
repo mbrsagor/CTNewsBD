@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CTNewsBD</string>
+    <string name="latest">Latest News</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- languages  -->
+    <string-array name="languages">
+        <item>বাংলা</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="languages2">
+        <item>English</item>
+        <item>বাংলা</item>
+    </string-array>
+
+</resources>

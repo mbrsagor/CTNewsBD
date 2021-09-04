@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:padding="20dp"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:background="@drawable/border_bottom"
+                android:layout_width="match_parent"
+                android:textSize="21sp"
+                android:paddingLeft="5dp"
+                android:layout_marginBottom="2dp"
+                android:id="@+id/first_text"
+                android:text="text"
+                android:layout_height="wrap_content" />
+
+            <com.android.volley.toolbox.NetworkImageView
+                android:background="@drawable/border_bottom"
+                android:id="@+id/first_image"
+                android:cropToPadding="true"
+                android:layout_marginTop="48dp"
+                android:layout_width="match_parent"
+                android:layout_height="200dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:textSize="20sp"
+                android:text="The news title"
+                android:id="@+id/first_title"
+                android:textColorHighlight="#8F415A"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:textSize="18sp"
+                android:id="@+id/first_date"
+                android:text="16/Decomber/2017"
+                android:layout_marginBottom="10dp"
+                android:textColorHighlight="#8F415A"
+                android:layout_height="wrap_content" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:background="@drawable/border_bottom"
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:orientation="vertical"
+                    android:layout_height="wrap_content">
+
+                    <com.android.volley.toolbox.NetworkImageView
+                        android:layout_width="wrap_content"
+                        android:cropToPadding="true"
+                        android:padding="0dp"
+                        android:id="@+id/feature_left_img"
+                        android:adjustViewBounds="true"
+                        android:layout_height="120dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:textSize="20sp"
+                        android:text="The news title"
+                        android:id="@+id/second_tilte"
+                        android:paddingLeft="5dp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:textSize="18sp"
+                        android:id="@+id/second_date"
+                        android:text="20/07/2017"
+                        android:paddingLeft="5dp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:background="@drawable/border_bottom"
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:layout_marginLeft="10dp"
+                    android:orientation="vertical"
+                    android:layout_height="wrap_content">
+
+                    <com.android.volley.toolbox.NetworkImageView
+                        android:layout_width="wrap_content"
+                        android:padding="0dp"
+                        android:id="@+id/feature_right_img"
+                        android:layout_height="120dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:textSize="20sp"
+                        android:id="@+id/third_title"
+                        android:text="The news title"
+                        android:paddingLeft="5dp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:textSize="18sp"
+                        android:id="@+id/third_date"
+                        android:text="20/07/2017"
+                        android:paddingLeft="5dp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginTop="20dp"
+                android:background="@drawable/border_top"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:id="@+id/singel_tv_layout"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:textSize="22sp"
+                    android:padding="5dp"
+                    android:id="@+id/fourth_title"
+                    android:text="What is Lorem Ipsum Ipsum?"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:textSize="18sp"
+                    android:paddingBottom="15dp"
+                    android:paddingLeft="5dp"
+                    android:id="@+id/fourth_date"
+                    android:text="20/december/2017"
+                    android:layout_height="wrap_content" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

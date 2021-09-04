@@ -1,0 +1,46 @@
+<android.support.v4.widget.SwipeRefreshLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/cutomlayout"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="me.shagor.ctnewsbd.Category">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:background="#EFEFEF"
+        android:layout_height="wrap_content">
+
+        <com.daimajia.slider.library.SliderLayout
+            android:id="@+id/slider"
+            android:layout_width="match_parent"
+            android:layout_height="200dp" />
+
+        <ListView
+            android:paddingLeft="12dp"
+            android:paddingTop="5dp"
+            android:paddingRight="12dp"
+            android:layout_below="@+id/slider"
+            android:id="@+id/list"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:divider="#91415B"
+            android:scrollbarSize="6dp"
+            android:scrollbarThumbVertical="@color/logo_color"
+            android:dividerHeight="3dp"
+            android:listSelector="@drawable/list_row_selector" />
+
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-3891111394050528/3779562567">
+        </com.google.android.gms.ads.AdView>
+
+    </RelativeLayout>
+</android.support.v4.widget.SwipeRefreshLayout>

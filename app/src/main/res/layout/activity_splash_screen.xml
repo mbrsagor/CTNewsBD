@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:weightSum="1"
+    tools:context="me.shagor.ctnewsbd.SplashScreen">
+    <ProgressBar
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="65dp"
+        android:layout_height="64dp"
+        android:id="@+id/progressBar"
+        android:max="48"
+        android:progress="1"
+        android:progressDrawable="@drawable/circular_screen"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+    <ImageView
+        android:layout_width="180dp"
+        android:src="@drawable/splashscreen"
+        android:layout_height="180dp"
+        android:id="@+id/spalsh_image"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        />
+
+</RelativeLayout>

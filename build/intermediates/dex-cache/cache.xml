@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\shagor\.android\build-cache\ae487c480f90ebb24d8b7eb8c85d8b4a14f0c9c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_054616c1fe631a191409f5e03ba47a9ecd83430d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shagor\.android\build-cache\d03ba92d002c18392d65809a7d7aed71a5d9a725\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\pre-dexed\debug\classes_ff311661ddeb83c1f7283055fa73a444cbe154e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shagor\.android\build-cache\edd94d60844e86428e93385e4e2ca252c211a7a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\pre-dexed\debug\classes_edb7a08bd81f37dfc4b7558bf80eee498185dde1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shagor\.android\build-cache\c83af9a4c2029f5658fc3eb8e6587ab7ba26f303\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df936437ca4a3a60bd40e3517578d95a79cb1f53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shagor\.android\build-cache\edd94d60844e86428e93385e4e2ca252c211a7a2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_edb7a08bd81f37dfc4b7558bf80eee498185dde1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shagor\.android\build-cache\d03ba92d002c18392d65809a7d7aed71a5d9a725\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff311661ddeb83c1f7283055fa73a444cbe154e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8e0ea36be8177f9c7d6ed2394430fded3187596c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shagor\.android\build-cache\fa134ad554638137b5b74f28692180a9581bf5ec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f909161e9bac1dd36538a275f06cae462082316a">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_96444b23fc9de7314ee51552a979e3eb5abcfc8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shagor\.android\build-cache\fa134ad554638137b5b74f28692180a9581bf5ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f909161e9bac1dd36538a275f06cae462082316a">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\pre-dexed\debug\classes_96444b23fc9de7314ee51552a979e3eb5abcfc8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shagor\.android\build-cache\55b6922b9bbd24be131252b2b4363b06e5f8e0f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5493a7c08b74d424d08a23c68334893cfd2d5ee3">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\pre-dexed\debug\classes_cbd1b896bdfda5e81fb1b38b4dc8c5f6530c1557.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shagor\.android\build-cache\55b6922b9bbd24be131252b2b4363b06e5f8e0f9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5493a7c08b74d424d08a23c68334893cfd2d5ee3">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cbd1b896bdfda5e81fb1b38b4dc8c5f6530c1557\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shagor\.android\build-cache\c83af9a4c2029f5658fc3eb8e6587ab7ba26f303\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\pre-dexed\debug\classes_df936437ca4a3a60bd40e3517578d95a79cb1f53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shagor\.android\build-cache\cd6ea21e22bd8e6605597a5ce17e397395ba16e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4737d9835cf3ea9751f7d6647be60900062d1062">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\pre-dexed\debug\classes_7bef2fa64447afd4129cf4872bc0f994af27808a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a991f1f1f7560c08c83681c3c0cee56558cc3fc8">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0bec7bfc644a05b3fe6d4ff596db34cfe3768e6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shagor\.android\build-cache\cd6ea21e22bd8e6605597a5ce17e397395ba16e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4737d9835cf3ea9751f7d6647be60900062d1062">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bef2fa64447afd4129cf4872bc0f994af27808a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shagor\.android\build-cache\8f53172f19192b787df22d143b48cc075f47d9b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c08dad0270322f085b6d96ec1dd423d5cffed35d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shagor\.android\build-cache\3fa5fab12d7bbf32c22765d168059a9cabfab2dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\pre-dexed\debug\classes_d680f59a37fd2a88e3d752e539a64283945a0f3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shagor\.android\build-cache\128190fc5bb5f70197133dbc5be8f406160051b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\pre-dexed\debug\classes_89f8e0539fbb700460aa9a2050b6ed55ffec6532.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shagor\.android\build-cache\128190fc5bb5f70197133dbc5be8f406160051b7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89f8e0539fbb700460aa9a2050b6ed55ffec6532\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shagor\.android\build-cache\3fa5fab12d7bbf32c22765d168059a9cabfab2dc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d680f59a37fd2a88e3d752e539a64283945a0f3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shagor\.android\build-cache\8f53172f19192b787df22d143b48cc075f47d9b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\pre-dexed\debug\classes_c08dad0270322f085b6d96ec1dd423d5cffed35d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shagor\.android\build-cache\08c2c27d894367e2464cb31bc7bc3f8e3e456a0d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="587840a157b50a6380d814a7a5a87b76118405e2">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3602394eaf62f4280383934a59a2a157d54b0218\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shagor\.android\build-cache\08c2c27d894367e2464cb31bc7bc3f8e3e456a0d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="587840a157b50a6380d814a7a5a87b76118405e2">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\pre-dexed\debug\classes_3602394eaf62f4280383934a59a2a157d54b0218.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shagor\.android\build-cache\ba4edd647da467a4b02824f023bd527a85daf07b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="acd4f9fad8500386084346a88ca47e2b66e84ffd">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d5eefdcd1db0897d2f8f89b38e7d3f1b77ede4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shagor\.android\build-cache\ba4edd647da467a4b02824f023bd527a85daf07b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="acd4f9fad8500386084346a88ca47e2b66e84ffd">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\pre-dexed\debug\classes_3d5eefdcd1db0897d2f8f89b38e7d3f1b77ede4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shagor\.android\build-cache\ae487c480f90ebb24d8b7eb8c85d8b4a14f0c9c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="C:\Users\shagor\AndroidStudioProjects\CTNewsBD\app\build\intermediates\pre-dexed\debug\classes_054616c1fe631a191409f5e03ba47a9ecd83430d.jar" />
+    </item>
+
+</items>
