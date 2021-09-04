@@ -1,9 +1,7 @@
-# Vanilla-todoApp
+# CTNewsBD
 
-#### What is Vanilla Javascript?
->Vanilla JS is a fast, lightweight, cross-platform framework
->for building incredible, powerful JavaScript applications.
+> The application actually for mobile `Android` apps which uses `java` when I started my software development career that's was my 1st beautiful newspaper app.
 
-##### In this project, I'm developing a simple static todo app for my office learning development purpose.
-
-#### N:B: It's faster then `Jquery`. This is my personal opinion.
+If you want to continue or contribute please follow the instructions below:
+- git clone https://github.com/mbrsagor/CTNewsBD.git
+- Run the application in your IDE like Android studio or others code editor.
